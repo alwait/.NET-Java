@@ -1,0 +1,14 @@
+C:\Users\alecze2762\source\repos\lab0_Czekaj_sr19\lab0_Czekaj_sr19\bin\Debug\net8.0\lab0_Czekaj_sr19.exe
+C:\Users\alecze2762\source\repos\lab0_Czekaj_sr19\lab0_Czekaj_sr19\bin\Debug\net8.0\lab0_Czekaj_sr19.deps.json
+C:\Users\alecze2762\source\repos\lab0_Czekaj_sr19\lab0_Czekaj_sr19\bin\Debug\net8.0\lab0_Czekaj_sr19.runtimeconfig.json
+C:\Users\alecze2762\source\repos\lab0_Czekaj_sr19\lab0_Czekaj_sr19\bin\Debug\net8.0\lab0_Czekaj_sr19.dll
+C:\Users\alecze2762\source\repos\lab0_Czekaj_sr19\lab0_Czekaj_sr19\bin\Debug\net8.0\lab0_Czekaj_sr19.pdb
+C:\Users\alecze2762\source\repos\lab0_Czekaj_sr19\lab0_Czekaj_sr19\obj\Debug\net8.0\lab0_Czekaj_sr19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alecze2762\source\repos\lab0_Czekaj_sr19\lab0_Czekaj_sr19\obj\Debug\net8.0\lab0_Czekaj_sr19.AssemblyInfoInputs.cache
+C:\Users\alecze2762\source\repos\lab0_Czekaj_sr19\lab0_Czekaj_sr19\obj\Debug\net8.0\lab0_Czekaj_sr19.AssemblyInfo.cs
+C:\Users\alecze2762\source\repos\lab0_Czekaj_sr19\lab0_Czekaj_sr19\obj\Debug\net8.0\lab0_Czekaj_sr19.csproj.CoreCompileInputs.cache
+C:\Users\alecze2762\source\repos\lab0_Czekaj_sr19\lab0_Czekaj_sr19\obj\Debug\net8.0\lab0_Czekaj_sr19.dll
+C:\Users\alecze2762\source\repos\lab0_Czekaj_sr19\lab0_Czekaj_sr19\obj\Debug\net8.0\refint\lab0_Czekaj_sr19.dll
+C:\Users\alecze2762\source\repos\lab0_Czekaj_sr19\lab0_Czekaj_sr19\obj\Debug\net8.0\lab0_Czekaj_sr19.pdb
+C:\Users\alecze2762\source\repos\lab0_Czekaj_sr19\lab0_Czekaj_sr19\obj\Debug\net8.0\lab0_Czekaj_sr19.genruntimeconfig.cache
+C:\Users\alecze2762\source\repos\lab0_Czekaj_sr19\lab0_Czekaj_sr19\obj\Debug\net8.0\ref\lab0_Czekaj_sr19.dll

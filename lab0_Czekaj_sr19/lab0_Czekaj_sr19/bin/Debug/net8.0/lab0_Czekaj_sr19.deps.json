@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lab0_Czekaj_sr19/1.0.0": {
+        "runtime": {
+          "lab0_Czekaj_sr19.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab0_Czekaj_sr19/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
