@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Problem_plecakowyInterfejs/1.0.0": {
+        "dependencies": {
+          "Problem_plecakowy": "1.0.0"
+        },
+        "runtime": {
+          "Problem_plecakowyInterfejs.dll": {}
+        }
+      },
+      "Problem_plecakowy/1.0.0": {
+        "runtime": {
+          "Problem_plecakowy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem_plecakowyInterfejs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Problem_plecakowy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

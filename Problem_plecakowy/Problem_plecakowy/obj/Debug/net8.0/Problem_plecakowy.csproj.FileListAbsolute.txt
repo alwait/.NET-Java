@@ -1,0 +1,14 @@
+C:\Users\aleks\source\repos\Problem_plecakowy\Problem_plecakowy\bin\Debug\net8.0\Problem_plecakowy.exe
+C:\Users\aleks\source\repos\Problem_plecakowy\Problem_plecakowy\bin\Debug\net8.0\Problem_plecakowy.deps.json
+C:\Users\aleks\source\repos\Problem_plecakowy\Problem_plecakowy\bin\Debug\net8.0\Problem_plecakowy.runtimeconfig.json
+C:\Users\aleks\source\repos\Problem_plecakowy\Problem_plecakowy\bin\Debug\net8.0\Problem_plecakowy.dll
+C:\Users\aleks\source\repos\Problem_plecakowy\Problem_plecakowy\bin\Debug\net8.0\Problem_plecakowy.pdb
+C:\Users\aleks\source\repos\Problem_plecakowy\Problem_plecakowy\obj\Debug\net8.0\Problem_plecakowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\Problem_plecakowy\Problem_plecakowy\obj\Debug\net8.0\Problem_plecakowy.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\Problem_plecakowy\Problem_plecakowy\obj\Debug\net8.0\Problem_plecakowy.AssemblyInfo.cs
+C:\Users\aleks\source\repos\Problem_plecakowy\Problem_plecakowy\obj\Debug\net8.0\Problem_plecakowy.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\Problem_plecakowy\Problem_plecakowy\obj\Debug\net8.0\Problem_plecakowy.dll
+C:\Users\aleks\source\repos\Problem_plecakowy\Problem_plecakowy\obj\Debug\net8.0\refint\Problem_plecakowy.dll
+C:\Users\aleks\source\repos\Problem_plecakowy\Problem_plecakowy\obj\Debug\net8.0\Problem_plecakowy.pdb
+C:\Users\aleks\source\repos\Problem_plecakowy\Problem_plecakowy\obj\Debug\net8.0\Problem_plecakowy.genruntimeconfig.cache
+C:\Users\aleks\source\repos\Problem_plecakowy\Problem_plecakowy\obj\Debug\net8.0\ref\Problem_plecakowy.dll
