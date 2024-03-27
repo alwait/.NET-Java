@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Problem_plecakowyInterfejs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a622a192ae3574f00bafac31bffc19209f61e87a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Problem_plecakowyInterfejs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Problem_plecakowyInterfejs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{451FE527-19E3-492A-9891-298600B63B84}|ConsoleApp1\\PogodaAPI.csproj|c:\\users\\aleks\\source\\repos\\.net-java\\pogoda\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451FE527-19E3-492A-9891-298600B63B84}|ConsoleApp1\\PogodaAPI.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451FE527-19E3-492A-9891-298600B63B84}|ConsoleApp1\\PogodaAPI.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\consoleapp1\\danepogodowe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451FE527-19E3-492A-9891-298600B63B84}|ConsoleApp1\\PogodaAPI.csproj|solutionrelative:consoleapp1\\danepogodowe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451FE527-19E3-492A-9891-298600B63B84}|ConsoleApp1\\PogodaAPI.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\consoleapp1\\zapispogody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451FE527-19E3-492A-9891-298600B63B84}|ConsoleApp1\\PogodaAPI.csproj|solutionrelative:consoleapp1\\zapispogody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451FE527-19E3-492A-9891-298600B63B84}|ConsoleApp1\\PogodaAPI.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\consoleapp1\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451FE527-19E3-492A-9891-298600B63B84}|ConsoleApp1\\PogodaAPI.csproj|solutionrelative:consoleapp1\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451FE527-19E3-492A-9891-298600B63B84}|ConsoleApp1\\PogodaAPI.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\consoleapp1\\pogoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451FE527-19E3-492A-9891-298600B63B84}|ConsoleApp1\\PogodaAPI.csproj|solutionrelative:consoleapp1\\pogoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FD0878-991A-43E9-8B14-7131B57618E9}|PrognozaPogodyGUI\\PrognozaPogodyGUI.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\prognozapogodygui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92FD0878-991A-43E9-8B14-7131B57618E9}|PrognozaPogodyGUI\\PrognozaPogodyGUI.csproj|solutionrelative:prognozapogodygui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451FE527-19E3-492A-9891-298600B63B84}|ConsoleApp1\\PogodaAPI.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\ConsoleApp1\\Migrations\\20240326213914_Init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451FE527-19E3-492A-9891-298600B63B84}|ConsoleApp1\\PogodaAPI.csproj|solutionrelative:ConsoleApp1\\Migrations\\20240326213914_Init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92FD0878-991A-43E9-8B14-7131B57618E9}|PrognozaPogodyGUI\\PrognozaPogodyGUI.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\prognozapogodygui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92FD0878-991A-43E9-8B14-7131B57618E9}|PrognozaPogodyGUI\\PrognozaPogodyGUI.csproj|solutionrelative:prognozapogodygui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\PrognozaPogodyGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "PrognozaPogodyGUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\PrognozaPogodyGUI\\Form1.cs [Projekt]",
+              "RelativeToolTip": "PrognozaPogodyGUI\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T22:08:49.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240326213914_Init3.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\ConsoleApp1\\Migrations\\20240326213914_Init3.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Migrations\\20240326213914_Init3.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\ConsoleApp1\\Migrations\\20240326213914_Init3.cs",
+              "RelativeToolTip": "ConsoleApp1\\Migrations\\20240326213914_Init3.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T21:39:14.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\PrognozaPogodyGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "PrognozaPogodyGUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\PrognozaPogodyGUI\\Form1.cs",
+              "RelativeToolTip": "PrognozaPogodyGUI\\Form1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA3wCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:39:41.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "API.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\ConsoleApp1\\API.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\API.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\ConsoleApp1\\API.cs",
+              "RelativeToolTip": "ConsoleApp1\\API.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T10:04:16.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pogoda.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\ConsoleApp1\\Pogoda.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Pogoda.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\ConsoleApp1\\Pogoda.cs",
+              "RelativeToolTip": "ConsoleApp1\\Pogoda.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA0wBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:11:34.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZapisPogody.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\ConsoleApp1\\ZapisPogody.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ZapisPogody.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\ConsoleApp1\\ZapisPogody.cs",
+              "RelativeToolTip": "ConsoleApp1\\ZapisPogody.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:23:36.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DanePogodowe.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\ConsoleApp1\\DanePogodowe.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DanePogodowe.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\ConsoleApp1\\DanePogodowe.cs",
+              "RelativeToolTip": "ConsoleApp1\\DanePogodowe.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwCQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T18:47:04.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Pogoda\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T18:17:45.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

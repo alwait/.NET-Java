@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aleks\\source\\repos\\Problem_plecakowy\\Problem_plecakowy\\Problem_plecakowy.csproj",
+      "projectUniqueName": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Problem_plecakowy\\Problem_plecakowy\\Problem_plecakowy.csproj",
       "projectName": "Problem_plecakowy",
-      "projectPath": "C:\\Users\\aleks\\source\\repos\\Problem_plecakowy\\Problem_plecakowy\\Problem_plecakowy.csproj",
+      "projectPath": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Problem_plecakowy\\Problem_plecakowy\\Problem_plecakowy.csproj",
       "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aleks\\source\\repos\\Problem_plecakowy\\Problem_plecakowy\\obj\\",
+      "outputPath": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Problem_plecakowy\\Problem_plecakowy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleks\\source\\repos\\Problem_plecakowy\\Problem_plecakowyTesty\\Problem_plecakowyTesty.csproj": {}
+    "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Problem_plecakowy\\Problem_plecakowyTesty\\Problem_plecakowyTesty.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleks\\source\\repos\\Problem_plecakowy\\Problem_plecakowyTesty\\Problem_plecakowyTesty.csproj": {
+    "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Problem_plecakowy\\Problem_plecakowyTesty\\Problem_plecakowyTesty.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleks\\source\\repos\\Problem_plecakowy\\Problem_plecakowyTesty\\Problem_plecakowyTesty.csproj",
+        "projectUniqueName": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Problem_plecakowy\\Problem_plecakowyTesty\\Problem_plecakowyTesty.csproj",
         "projectName": "Problem_plecakowyTesty",
-        "projectPath": "C:\\Users\\aleks\\source\\repos\\Problem_plecakowy\\Problem_plecakowyTesty\\Problem_plecakowyTesty.csproj",
+        "projectPath": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Problem_plecakowy\\Problem_plecakowyTesty\\Problem_plecakowyTesty.csproj",
         "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleks\\source\\repos\\Problem_plecakowy\\Problem_plecakowyTesty\\obj\\",
+        "outputPath": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Problem_plecakowy\\Problem_plecakowyTesty\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\aleks\\source\\repos\\Problem_plecakowy\\Problem_plecakowy\\Problem_plecakowy.csproj": {
-                "projectPath": "C:\\Users\\aleks\\source\\repos\\Problem_plecakowy\\Problem_plecakowy\\Problem_plecakowy.csproj"
+              "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Problem_plecakowy\\Problem_plecakowy\\Problem_plecakowy.csproj": {
+                "projectPath": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Problem_plecakowy\\Problem_plecakowy\\Problem_plecakowy.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\aleks\\source\\repos\\Problem_plecakowy\\Problem_plecakowy\\Problem_plecakowy.csproj": {
+    "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Problem_plecakowy\\Problem_plecakowy\\Problem_plecakowy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleks\\source\\repos\\Problem_plecakowy\\Problem_plecakowy\\Problem_plecakowy.csproj",
+        "projectUniqueName": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Problem_plecakowy\\Problem_plecakowy\\Problem_plecakowy.csproj",
         "projectName": "Problem_plecakowy",
-        "projectPath": "C:\\Users\\aleks\\source\\repos\\Problem_plecakowy\\Problem_plecakowy\\Problem_plecakowy.csproj",
+        "projectPath": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Problem_plecakowy\\Problem_plecakowy\\Problem_plecakowy.csproj",
         "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleks\\source\\repos\\Problem_plecakowy\\Problem_plecakowy\\obj\\",
+        "outputPath": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Problem_plecakowy\\Problem_plecakowy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",

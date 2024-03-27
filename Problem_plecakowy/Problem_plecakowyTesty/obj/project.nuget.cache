@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VgIahsAtajc5g/gOPfWSEX6YkV+P/JtcxJJn678s0sld3RT9fNHS5vp+YjlqRjydc9fioO7W/4cudl8yiASTTA==",
+  "dgSpecHash": "UMmaAJNfjrrlSOPLTE2l92zwsgoC9+u+9XKBJEeuo+y0hM1jETdHtXGANJmlU5mP3/QpHMPLlbRPI+dgWweuFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aleks\\source\\repos\\Problem_plecakowy\\Problem_plecakowyTesty\\Problem_plecakowyTesty.csproj",
+  "projectFilePath": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Problem_plecakowy\\Problem_plecakowyTesty\\Problem_plecakowyTesty.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleks\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\aleks\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
