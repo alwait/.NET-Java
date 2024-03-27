@@ -35,10 +35,10 @@ namespace PrognozaPogodyGUI
 
             pictureBox.ImageLocation = "https://openweathermap.org/img/wn/" + zapisPogody.weather[0].icon + ".png";
             ZapisPogody zapis = new ZapisPogody() { Id = 1, miasto = "Warszawa", temperatura = 21.37, wiatr = 1.1, wilgotnosc = 40 };
-            listBaza.Items.Add(zapisPogody.ToString());
+            //listBaza.Items.Add(zapisPogody.ToString());
             danePogodowe.ZapisyPogody.Add(pogoda);
             danePogodowe.SaveChangesAsync();
-            //listBaza.DataSource = danePogodowe.ZapisyPogody.ToList<ZapisPogody>();
+            listBaza.DataSource = danePogodowe.ZapisyPogody.ToList<ZapisPogody>();
         }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrognozaPogodyGUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a622a192ae3574f00bafac31bffc19209f61e87a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e36c8d5262cb28546f771b4e817047acb3de7674")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrognozaPogodyGUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrognozaPogodyGUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

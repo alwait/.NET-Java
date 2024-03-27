@@ -21,7 +21,7 @@ namespace PogodaAPI
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
-            options.UseSqlite(@"Data Source=DanePogodowe.db", opt => 
+            options.UseSqlite(@"Data Source=C:\Users\aleks\source\repos\.NET-Java\Pogoda\PrognozaPogodyGUI\DanePogodowe.db", opt => 
             { 
                 opt.MigrationsAssembly(Assembly.GetExecutingAssembly().FullName);
             });
