@@ -1,0 +1,15 @@
+C:\Users\aleks\source\repos\.NET-Java\Wielowatkowosc\Wielowatkowosc\bin\Release\net8.0\Wielowatkowosc.exe
+C:\Users\aleks\source\repos\.NET-Java\Wielowatkowosc\Wielowatkowosc\bin\Release\net8.0\Wielowatkowosc.deps.json
+C:\Users\aleks\source\repos\.NET-Java\Wielowatkowosc\Wielowatkowosc\bin\Release\net8.0\Wielowatkowosc.runtimeconfig.json
+C:\Users\aleks\source\repos\.NET-Java\Wielowatkowosc\Wielowatkowosc\bin\Release\net8.0\Wielowatkowosc.dll
+C:\Users\aleks\source\repos\.NET-Java\Wielowatkowosc\Wielowatkowosc\bin\Release\net8.0\Wielowatkowosc.pdb
+C:\Users\aleks\source\repos\.NET-Java\Wielowatkowosc\Wielowatkowosc\obj\Release\net8.0\Wielowatkowosc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\.NET-Java\Wielowatkowosc\Wielowatkowosc\obj\Release\net8.0\Wielowatkowosc.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\.NET-Java\Wielowatkowosc\Wielowatkowosc\obj\Release\net8.0\Wielowatkowosc.AssemblyInfo.cs
+C:\Users\aleks\source\repos\.NET-Java\Wielowatkowosc\Wielowatkowosc\obj\Release\net8.0\Wielowatkowosc.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\.NET-Java\Wielowatkowosc\Wielowatkowosc\obj\Release\net8.0\Wielowatkowosc.sourcelink.json
+C:\Users\aleks\source\repos\.NET-Java\Wielowatkowosc\Wielowatkowosc\obj\Release\net8.0\Wielowatkowosc.dll
+C:\Users\aleks\source\repos\.NET-Java\Wielowatkowosc\Wielowatkowosc\obj\Release\net8.0\refint\Wielowatkowosc.dll
+C:\Users\aleks\source\repos\.NET-Java\Wielowatkowosc\Wielowatkowosc\obj\Release\net8.0\Wielowatkowosc.pdb
+C:\Users\aleks\source\repos\.NET-Java\Wielowatkowosc\Wielowatkowosc\obj\Release\net8.0\Wielowatkowosc.genruntimeconfig.cache
+C:\Users\aleks\source\repos\.NET-Java\Wielowatkowosc\Wielowatkowosc\obj\Release\net8.0\ref\Wielowatkowosc.dll
