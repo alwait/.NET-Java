@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Wielowatkowosc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81536204-5565-4193-AD89-4383CF684D2A}|Zdjecia\\Zdjecia.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\Wielowatkowosc\\zdjecia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81536204-5565-4193-AD89-4383CF684D2A}|Zdjecia\\Zdjecia.csproj|solutionrelative:zdjecia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FCCFBC-9235-4D9A-8E95-2123D7A3851B}|Wielowatkowosc\\Wielowatkowosc.csproj|c:\\users\\aleks\\source\\repos\\.net-java\\wielowatkowosc\\wielowatkowosc\\hlp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81FCCFBC-9235-4D9A-8E95-2123D7A3851B}|Wielowatkowosc\\Wielowatkowosc.csproj|solutionrelative:wielowatkowosc\\hlp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81536204-5565-4193-AD89-4383CF684D2A}|Zdjecia\\Zdjecia.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\Wielowatkowosc\\zdjecia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81536204-5565-4193-AD89-4383CF684D2A}|Zdjecia\\Zdjecia.csproj|solutionrelative:zdjecia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FCCFBC-9235-4D9A-8E95-2123D7A3851B}|Wielowatkowosc\\Wielowatkowosc.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\Wielowatkowosc\\wielowatkowosc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81FCCFBC-9235-4D9A-8E95-2123D7A3851B}|Wielowatkowosc\\Wielowatkowosc.csproj|solutionrelative:wielowatkowosc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FCCFBC-9235-4D9A-8E95-2123D7A3851B}|Wielowatkowosc\\Wielowatkowosc.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\Wielowatkowosc\\wielowatkowosc\\llt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81FCCFBC-9235-4D9A-8E95-2123D7A3851B}|Wielowatkowosc\\Wielowatkowosc.csproj|solutionrelative:wielowatkowosc\\llt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FCCFBC-9235-4D9A-8E95-2123D7A3851B}|Wielowatkowosc\\Wielowatkowosc.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\Wielowatkowosc\\wielowatkowosc\\macierz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81FCCFBC-9235-4D9A-8E95-2123D7A3851B}|Wielowatkowosc\\Wielowatkowosc.csproj|solutionrelative:wielowatkowosc\\macierz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Wielowatkowosc\\Zdjecia\\Form1.cs",
+              "RelativeDocumentMoniker": "Zdjecia\\Form1.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Wielowatkowosc\\Zdjecia\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Zdjecia\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:50:17.952Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HLP.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Wielowatkowosc\\Wielowatkowosc\\HLP.cs",
+              "RelativeDocumentMoniker": "Wielowatkowosc\\HLP.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Wielowatkowosc\\Wielowatkowosc\\HLP.cs",
+              "RelativeToolTip": "Wielowatkowosc\\HLP.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:03:31.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Wielowatkowosc\\Wielowatkowosc\\Program.cs",
+              "RelativeDocumentMoniker": "Wielowatkowosc\\Program.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Wielowatkowosc\\Wielowatkowosc\\Program.cs",
+              "RelativeToolTip": "Wielowatkowosc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:53:40.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Wielowatkowosc\\Zdjecia\\Form1.cs",
+              "RelativeDocumentMoniker": "Zdjecia\\Form1.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Wielowatkowosc\\Zdjecia\\Form1.cs",
+              "RelativeToolTip": "Zdjecia\\Form1.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:55:21.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LLT.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Wielowatkowosc\\Wielowatkowosc\\LLT.cs",
+              "RelativeDocumentMoniker": "Wielowatkowosc\\LLT.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Wielowatkowosc\\Wielowatkowosc\\LLT.cs",
+              "RelativeToolTip": "Wielowatkowosc\\LLT.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:47:13.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Macierz.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Wielowatkowosc\\Wielowatkowosc\\Macierz.cs",
+              "RelativeDocumentMoniker": "Wielowatkowosc\\Macierz.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\Wielowatkowosc\\Wielowatkowosc\\Macierz.cs",
+              "RelativeToolTip": "Wielowatkowosc\\Macierz.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwBcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:13:05.175Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

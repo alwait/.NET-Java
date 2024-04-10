@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wielowatkowosc", "Wielowatkowosc\Wielowatkowosc.csproj", "{81FCCFBC-9235-4D9A-8E95-2123D7A3851B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zdjecia", "Zdjecia\Zdjecia.csproj", "{81536204-5565-4193-AD89-4383CF684D2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81FCCFBC-9235-4D9A-8E95-2123D7A3851B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FCCFBC-9235-4D9A-8E95-2123D7A3851B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FCCFBC-9235-4D9A-8E95-2123D7A3851B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FCCFBC-9235-4D9A-8E95-2123D7A3851B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81536204-5565-4193-AD89-4383CF684D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81536204-5565-4193-AD89-4383CF684D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81536204-5565-4193-AD89-4383CF684D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81536204-5565-4193-AD89-4383CF684D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3020B0E5-5453-45EE-B125-337E286445AC}
+	EndGlobalSection
+EndGlobal
