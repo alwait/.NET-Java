@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\blazorlab2\\components\\pages\\moviepages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|solutionrelative:blazorlab2\\components\\pages\\moviepages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\blazorlab2\\components\\pages\\moviepages\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|solutionrelative:blazorlab2\\components\\pages\\moviepages\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\blazorlab2\\components\\pages\\moviepages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|solutionrelative:blazorlab2\\components\\pages\\moviepages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Data\\Migrations\\20240507193325_M21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorLab2\\Data\\Migrations\\20240507193325_M21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|c:\\users\\aleks\\source\\repos\\.net-java\\blazorlab2\\blazorlab2\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|solutionrelative:blazorlab2\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\blazorlab2\\components\\pages\\moviepages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|solutionrelative:blazorlab2\\components\\pages\\moviepages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|c:\\users\\aleks\\source\\repos\\.net-java\\blazorlab2\\blazorlab2\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|solutionrelative:blazorlab2\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\blazorlab2\\components\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|solutionrelative:blazorlab2\\components\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\blazorlab2\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|solutionrelative:blazorlab2\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\blazorlab2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|solutionrelative:blazorlab2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\blazorlab2\\components\\pages\\moviepages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|solutionrelative:blazorlab2\\components\\pages\\moviepages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\blazorlab2\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|solutionrelative:blazorlab2\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\blazorlab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|solutionrelative:blazorlab2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\blazorlab2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|solutionrelative:blazorlab2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\blazorlab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|solutionrelative:blazorlab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\blazorlab2\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|solutionrelative:blazorlab2\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\blazorlab2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59188A63-8221-4CC3-9B35-2F226C538376}|BlazorLab2\\BlazorLab2.csproj|solutionrelative:blazorlab2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240507193325_M21.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Data\\Migrations\\20240507193325_M21.cs",
+              "RelativeDocumentMoniker": "BlazorLab2\\Data\\Migrations\\20240507193325_M21.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Data\\Migrations\\20240507193325_M21.cs",
+              "RelativeToolTip": "BlazorLab2\\Data\\Migrations\\20240507193325_M21.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:33:25.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorLab2\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorLab2\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T19:23:00.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorLab2\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorLab2\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T10:03:17.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Components\\Pages\\MoviePages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorLab2\\Components\\Pages\\MoviePages\\Index.razor",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Components\\Pages\\MoviePages\\Index.razor",
+              "RelativeToolTip": "BlazorLab2\\Components\\Pages\\MoviePages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T10:03:10.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Components\\Pages\\MoviePages\\Create.razor",
+              "RelativeDocumentMoniker": "BlazorLab2\\Components\\Pages\\MoviePages\\Create.razor",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Components\\Pages\\MoviePages\\Create.razor",
+              "RelativeToolTip": "BlazorLab2\\Components\\Pages\\MoviePages\\Create.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T10:01:07.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Movie.cs",
+              "RelativeDocumentMoniker": "BlazorLab2\\Movie.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Movie.cs",
+              "RelativeToolTip": "BlazorLab2\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:52:29.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BlazorLab2\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "BlazorLab2\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:44:10.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BlazorLab2\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BlazorLab2\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:44:07.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.razor",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Components\\Pages\\MoviePages\\Edit.razor",
+              "RelativeDocumentMoniker": "BlazorLab2\\Components\\Pages\\MoviePages\\Edit.razor",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Components\\Pages\\MoviePages\\Edit.razor",
+              "RelativeToolTip": "BlazorLab2\\Components\\Pages\\MoviePages\\Edit.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T10:31:41.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.razor",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Components\\Pages\\MoviePages\\Details.razor",
+              "RelativeDocumentMoniker": "BlazorLab2\\Components\\Pages\\MoviePages\\Details.razor",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Components\\Pages\\MoviePages\\Details.razor",
+              "RelativeToolTip": "BlazorLab2\\Components\\Pages\\MoviePages\\Details.razor",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T10:13:27.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorLab2\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorLab2\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T10:03:18.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Auth.razor",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Components\\Pages\\Auth.razor",
+              "RelativeDocumentMoniker": "BlazorLab2\\Components\\Pages\\Auth.razor",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Components\\Pages\\Auth.razor",
+              "RelativeToolTip": "BlazorLab2\\Components\\Pages\\Auth.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T09:43:58.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "BlazorLab2\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Components\\Routes.razor",
+              "RelativeToolTip": "BlazorLab2\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T11:38:59.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.razor",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Components\\Pages\\MoviePages\\Delete.razor",
+              "RelativeDocumentMoniker": "BlazorLab2\\Components\\Pages\\MoviePages\\Delete.razor",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Components\\Pages\\MoviePages\\Delete.razor",
+              "RelativeToolTip": "BlazorLab2\\Components\\Pages\\MoviePages\\Delete.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T11:40:59.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorLab2\\appsettings.json",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\appsettings.json",
+              "RelativeToolTip": "BlazorLab2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T11:08:55.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlazorLab2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlazorLab2\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T11:11:51.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorLab2\\Program.cs",
+              "ToolTip": "C:\\Users\\aleks\\source\\repos\\.NET-Java\\BlazorLab2\\BlazorLab2\\Program.cs",
+              "RelativeToolTip": "BlazorLab2\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:43:24.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

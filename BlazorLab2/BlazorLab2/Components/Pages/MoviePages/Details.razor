@@ -1,0 +1,76 @@
+﻿@page "/movies/details"
+@inject BlazorLab2.Data.ApplicationDbContext DB
+@using BlazorLab2
+@inject NavigationManager NavigationManager
+@using Microsoft.EntityFrameworkCore
+@using Microsoft.AspNetCore.Authorization
+@attribute [Authorize]
+@rendermode InteractiveServer
+
+<PageTitle>Details</PageTitle>
+
+<h1>Details</h1>
+
+<div>
+    <h4>Movie</h4>
+    <hr />
+    @if (movie is null)
+    {
+        <p><em>Loading...</em></p>
+    }
+    else {
+        @if (!string.IsNullOrEmpty(@movie.Uri))
+        {
+            <div style="max-width: 400px; max-height: 400px; overflow: hidden;">
+                <img src="@movie.Uri" alt="Image" class="img-fluid" />
+            </div>
+        }
+        <dl class="row">
+            <dt class="col-sm-2">Title</dt>
+            <dd class="col-sm-10">@movie.Title</dd>
+            <dt class="col-sm-2">Description</dt>
+            <dd class="col-sm-10">@movie.Description</dd>
+            <dt class="col-sm-2">RelaseDate</dt>
+            <dd class="col-sm-10">@movie.RelaseDate</dd>
+            <dt class="col-sm-2">Rate</dt>
+            <dd class="col-sm-10">@Math.Round((decimal)movie.Rate,1)</dd>
+        </dl>
+        <div>
+            <a href="@($"/movies/edit?id={movie.Id}")">Edit</a> |
+            <a href="@($"/movies")">Back to List</a>
+        </div>
+
+        <input @bind="rating" type="number" min="1" max="5" />
+
+        <button @onclick="Submit">Submit</button>
+    }
+</div>
+
+@code {
+    int? rating;
+    bool submited=false;
+    Movie? movie;
+
+    [SupplyParameterFromQuery]
+    public int Id { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        movie = await DB.Movie.FirstOrDefaultAsync(m => m.Id == Id);
+
+        if (movie is null)
+        {
+            NavigationManager.NavigateTo("notfound");
+        }
+    }
+    private async Task Submit()
+    {
+        if (!submited)
+        {
+            movie.Rate += (rating - movie.Rate) * .2f;
+            DB.Update(movie);
+            await DB.SaveChangesAsync();
+            submited = true;
+        }
+    }
+}

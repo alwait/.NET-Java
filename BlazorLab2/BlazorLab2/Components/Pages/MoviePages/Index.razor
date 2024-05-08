@@ -1,0 +1,35 @@
+﻿@page "/movies"
+@using Microsoft.AspNetCore.Components.QuickGrid
+@inject BlazorLab2.Data.ApplicationDbContext DB
+@using BlazorLab2
+@rendermode InteractiveServer
+<PageTitle>Index</PageTitle>
+
+<h1>Index</h1>
+
+<p>
+    <a href="movies/create">Create New</a>
+</p>
+
+<QuickGrid Class="table" Items="DB.Movie" Sortable="true" SortDirection="@sortDirection" SortField="@sortField" SortChanged="SortChanged">
+    <PropertyColumn Property="movie => movie.Title" Sortable="true" />
+    <PropertyColumn Property="movie => movie.RelaseDate" Sortable="true" />
+    <PropertyColumn Property="movie => Math.Round((decimal)movie.Rate,1)" Sortable="true" />
+
+    <TemplateColumn Context="movie">
+        <a href="@($"movies/edit?id={movie.Id}")">Edit</a> |
+        <a href="@($"movies/details?id={movie.Id}")">Details</a> |
+        <a href="@($"movies/delete?id={movie.Id}")">Delete</a>
+    </TemplateColumn>
+</QuickGrid>
+
+@code {
+    private string sortField = "";
+    private SortDirection sortDirection = SortDirection.Ascending;
+
+    private void SortChanged(string field, SortDirection direction)
+    {
+        sortField = field;
+        sortDirection = direction;
+    }
+}
